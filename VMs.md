@@ -1,24 +1,17 @@
-Virtual Machine - Ablaze Portal Link  : [Ablaze Portal](https://my.ablazedesktop.com)
-
-| Lastname   | Firstname   | Ablaze Username | Ablaze Account Password | Azure Account                                     | Azure Password |
-|------------|-------------|------------------|--------------------------|---------------------------------------------------|----------------|
-| Lisa      | Campbell      | WSAUTO25-01      | TEKwsauto25!             | student001_OC007@opscosolutions.onmicrosoft.com  | P@ssw0rd20250819! |
-| Mark      | Chalmers       | WSAUTO25-02      | TEKwsauto25!             | student002_OC007@opscosolutions.onmicrosoft.com  | P@ssw0rd20250819! |
-| Clarence      | Cole       | WSAUTO25-03      | TEKwsauto25!             | student003_OC007@opscosolutions.onmicrosoft.com  | P@ssw0rd20250819! |
-| Paul J   | Dascanio      | WSAUTO25-04      | TEKwsauto25!             | student004_OC007@opscosolutions.onmicrosoft.com  | P@ssw0rd20250819! |
-| Leasha     | Ekanem         | WSAUTO25-05      | TEKwsauto25!             | student005_OC007@opscosolutions.onmicrosoft.com  | P@ssw0rd20250819! |
-| Steven    | Freeman        | WSAUTO25-06      | TEKwsauto25!             | student006_OC007@opscosolutions.onmicrosoft.com  | P@ssw0rd20250819! |
-| Josh      | Kirby     | WSAUTO25-07      | TEKwsauto25!             | student007_OC007@opscosolutions.onmicrosoft.com  | P@ssw0rd20250819! |
-| Tirumala     | Maddali       | WSAUTO25-08      | TEKwsauto25!             | student008_OC007@opscosolutions.onmicrosoft.com  | P@ssw0rd20250819! |
-| Bill    | Mull          | WSAUTO25-09      | TEKwsauto25!             | student009_OC007@opscosolutions.onmicrosoft.com  | P@ssw0rd20250819! |
-| Girish     | Naik     | WSAUTO25-10      | TEKwsauto25!             | student010_OC007@opscosolutions.onmicrosoft.com  | P@ssw0rd20250819! |
-| Raymond     | Novak   | WSAUTO25-11      | TEKwsauto25!             | student011_OC007@opscosolutions.onmicrosoft.com  | P@ssw0rd20250819! |
-| Vincent     | Rajasekhar       | WSAUTO25-12      | TEKwsauto25!             | student012_OC007@opscosolutions.onmicrosoft.com  | P@ssw0rd20250819! |
-| Curtis   | Rasmusen      | WSAUTO25-13      | TEKwsauto25!             | student013_OC007@opscosolutions.onmicrosoft.com  | P@ssw0rd20250819! |
-| Rachelle     | Schmittinge        | WSAUTO25-14      | TEKwsauto25!             | student014_OC007@opscosolutions.onmicrosoft.com  | P@ssw0rd20250819! |
-| Robert    | Slesinger      | WSAUTO25-15      | TEKwsauto25!             | student015_OC007@opscosolutions.onmicrosoft.com  | P@ssw0rd20250819! |
-| Jeff      | Thrasher       | WSAUTO25-16      | TEKwsauto25!             | student016_OC007@opscosolutions.onmicrosoft.com  | P@ssw0rd20250819! |
-| Mark       | Turner         | WSAUTO25-17      | TEKwsauto25!             | student017_OC007@opscosolutions.onmicrosoft.com  | P@ssw0rd20250819! |
-| Randy        | Umbel          | WSAUTO25-18      | TEKwsauto25!             | student018_OC007@opscosolutions.onmicrosoft.com  | P@ssw0rd20250819! |
-| Robin      | Walton        | WSAUTO25-19      | TEKwsauto25!             | student019_OC007@opscosolutions.onmicrosoft.com  | P@ssw0rd20250819! |
-| Gerald  | White     | WSAUTO25-20      | TEKwsauto25!             | student020_OC007@opscosolutions.onmicrosoft.com  | P@ssw0rd20250819! |
+| Name             | Username     | Virtual Machine Password | Virtual Machine Portal                      |
+|:-----------------|:-------------|:-------------------------|:--------------------------------------------|
+| George Egger     | WINSRE25-01  | TEKwinSRE25!             | [Ablaze Portal](https://my.ablazedesktop.com) |
+| Bryce McCain     | WINSRE25-02  | TEKwinSRE25!             |                                            |
+| Taiwo Omodara    | WINSRE25-03  | TEKwinSRE25!             |                                            |
+| Michael Orban    | WINSRE25-04  | TEKwinSRE25!             |                                            |
+| Nicole Hredzak   | WINSRE25-05  | TEKwinSRE25!             |                                            |
+| Andrew Jackson   | WINSRE25-06  | TEKwinSRE25!             |                                            |
+| John Mamrak      | WINSRE25-07  | TEKwinSRE25!             |                                            |
+| Christopher Petty| WINSRE25-08  | TEKwinSRE25!             |                                            |
+| Jeremy Clark     | WINSRE25-09  | TEKwinSRE25!             |                                            |
+| Rama Tanniru     | WINSRE25-10  | TEKwinSRE25!             |                                            |
+| Rijosh George    | WINSRE25-11  | TEKwinSRE25!             |                                            |
+| Malik Flowers    | WINSRE25-12  | TEKwinSRE25!             |                                            |
+| Michael Marini   | WINSRE25-13  | TEKwinSRE25!             |                                            |
+| Tosin Ogunsunlade| WINSRE25-14  | TEKwinSRE25!             |                                            |
+| Instructor       | WINSRE25-15  | TEKwinSRE25!             |                                            |
