@@ -309,7 +309,6 @@ git clone https://github.com/jruels/azure-sre
    ```
    /api/retrieve-price?symbol=AAPL
    ```
-   ![image](https://github.com/user-attachments/assets/8f8d1e8f-09ea-4747-9644-166e3446cffe)
 
 
    > **Note**: You should see the price returned in a json object format.
