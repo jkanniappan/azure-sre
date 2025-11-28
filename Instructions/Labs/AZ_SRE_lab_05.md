@@ -143,6 +143,7 @@ Sign in to your Windows 11 virtual machine (VM).
    ```
    @app.route('/high-cpu')
    def high_cpu():
+       import math
        # Simulate CPU load by calculating primes
        n = 50000
        primes = []
