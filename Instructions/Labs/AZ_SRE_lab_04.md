@@ -55,7 +55,7 @@ Sign in to your Windows 11 virtual machine (VM).
     
         try:
             response = requests.get(f"{BACKEND_API_BASE}/api/slow-endpoint")
-            result = response.json()
+            result = response.text
         except Exception as e:
             result = {"error": str(e)}
     
