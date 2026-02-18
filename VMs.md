@@ -1,27 +1,16 @@
-| Name                      | Username    | Virtual Machine Password | Student Email                                                                     | Email Password | Virtual Machine Portal                        |
-| ------------------------- | ----------- | ------------------------ | --------------------------------------------------------------------------------- | -------------- | --------------------------------------------- |
-| Pankaj Kumar              | WINSRE25-01 | TEKwinSRE25!             | student001_OC012@opscosolutions.onmicrosoft.com                                   | OPSCO2026sre!  | [Ablaze Portal](https://my.ablazedesktop.com) |
-| Annette Au                | WINSRE25-02 | TEKwinSRE25!             | student002_OC012@opscosolutions.onmicrosoft.com                                   | OPSCO2026sre!  |                                               |
-| Karen Ann Joseph          | WINSRE25-03 | TEKwinSRE25!             | student003_OC012@opscosolutions.onmicrosoft.com                                   | OPSCO2026sre!  |                                               |
-| Lyon LI                   | WINSRE25-04 | TEKwinSRE25!             | student004_OC012@opscosolutions.onmicrosoft.com                                   | OPSCO2026sre!  |                                               |
-| Keith Ng                  | WINSRE25-05 | TEKwinSRE25!             | student005_OC012@opscosolutions.onmicrosoft.com                                   | OPSCO2026sre!  |                                               |
-| Yusuke Sawa               | WINSRE25-06 | TEKwinSRE25!             | student006_OC012@opscosolutions.onmicrosoft.com                                   | OPSCO2026sre!  |                                               |
-| Eugene Su                 | WINSRE25-07 | TEKwinSRE25!             | student007_OC012@opscosolutions.onmicrosoft.com                                   | OPSCO2026sre!  |                                               |
-| Manimohan Amam            | WINSRE25-08 | TEKwinSRE25!             | student008_OC012@opscosolutions.onmicrosoft.com                                   | OPSCO2026sre!  |                                               |
-| Rai Ricafrente Borlas     | WINSRE25-09 | TEKwinSRE25!             | student009_OC012@opscosolutions.onmicrosoft.com                                   | OPSCO2026sre!  |                                               |
-| Wen Feng Chua             | WINSRE25-10 | TEKwinSRE25!             | student010_OC012@opscosolutions.onmicrosoft.com                                   | OPSCO2026sre!  |                                               |
-| Geralyn Goh Soo Chi       | WINSRE25-11 | TEKwinSRE25!             | student011_OC012@opscosolutions.onmicrosoft.com                                   | OPSCO2026sre!  |                                               |
-| Chetan Dilip Gote         | WINSRE25-12 | TEKwinSRE25!             | student012_OC012@opscosolutions.onmicrosoft.com                                   | OPSCO2026sre!  |                                               |
-| Pramod Goyal              | WINSRE25-13 | TEKwinSRE25!             | student013_OC012@opscosolutions.onmicrosoft.com                                   | OPSCO2026sre!  |                                               |
-| AnilKumar Inkollu         | WINSRE25-14 | TEKwinSRE25!             | student014_OC012@opscosolutions.onmicrosoft.com                                   | OPSCO2026sre!  |                                               |
-| Praveen Kumar Kamala      | WINSRE25-15 | TEKwinSRE25!             | student015_OC012@opscosolutions.onmicrosoft.com                                   | OPSCO2026sre!  |                                               |
-| Balasubramanian Kannan    | WINSRE25-16 | TEKwinSRE25!             | student016_OC012@opscosolutions.onmicrosoft.com                                   | OPSCO2026sre!  |                                               |
-| Jack Lau                  | WINSRE25-17 | TEKwinSRE25!             | student017_OC012@opscosolutions.onmicrosoft.com                                   | OPSCO2026sre!  |                                               |
-| Lenson Lim                | WINSRE25-18 | TEKwinSRE25!             | student018_OC012@opscosolutions.onmicrosoft.com                                   | OPSCO2026sre!  |                                               |
-| Amol Arun Magar           | WINSRE25-19 | TEKwinSRE25!             | student019_OC012@opscosolutions.onmicrosoft.com                                   | OPSCO2026sre!  |                                               |
-| Raj Murugan               | WINSRE25-20 | TEKwinSRE25!             | student020_OC012@opscosolutions.onmicrosoft.com                                   | OPSCO2026sre!  |                                               |
-| Shiva Nooka               | WINSRE25-21 | TEKwinSRE25!             | student021_OC012@opscosolutions.onmicrosoft.com                                   | OPSCO2026sre!  |                                               |
-| Ramkishan Rao Padidela    | WINSRE25-22 | TEKwinSRE25!             | student022_OC012@opscosolutions.onmicrosoft.com                                   | OPSCO2026sre!  |                                               |
-| Troy Michael Parry        | WINSRE25-23 | TEKwinSRE25!             | student023_OC012@opscosolutions.onmicrosoft.com                                   | OPSCO2026sre!  |                                               |
-| P.S. Ramanathan Periasamy | WINSRE25-24 | TEKwinSRE25!             | student024_OC012@opscosolutions.onmicrosoft.com                                   | OPSCO2026sre!  |                                               |
-| Amit Shinde               | WINSRE25-25 | TEKwinSRE25!             | student025_OC012@opscosolutions.onmicrosoft.com                                   | OPSCO2026sre!  |                                               |
+| Name | Username | Virtual Machine Password | Student Email | Email Password | Virtual Machine Portal |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Christian Albino | WINSRE25-01 | TEKwinSRE25! | student001_OC013@opscosolutions.onmicrosoft.com | WelcomeOPSCO2026.! | [Ablaze Portal](https://my.ablazedesktop.com) |
+| Penni Bacheler | WINSRE25-02 | TEKwinSRE25! | student002_OC013@opscosolutions.onmicrosoft.com | WelcomeOPSCO2026.! | |
+| Kiranmayi Ganti | WINSRE25-03 | TEKwinSRE25! | student003_OC013@opscosolutions.onmicrosoft.com | WelcomeOPSCO2026.! | |
+| Nagendra Garlanka | WINSRE25-04 | TEKwinSRE25! | student004_OC013@opscosolutions.onmicrosoft.com | WelcomeOPSCO2026.! | |
+| Thomas Hawrysz | WINSRE25-05 | TEKwinSRE25! | student005_OC013@opscosolutions.onmicrosoft.com | WelcomeOPSCO2026.! | |
+| Edrian Hernandez | WINSRE25-06 | TEKwinSRE25! | student006_OC013@opscosolutions.onmicrosoft.com | WelcomeOPSCO2026.! | |
+| Jay Kanniappan | WINSRE25-07 | TEKwinSRE25! | student007_OC013@opscosolutions.onmicrosoft.com | WelcomeOPSCO2026.! | |
+| Huibing Henry Li | WINSRE25-08 | TEKwinSRE25! | student008_OC013@opscosolutions.onmicrosoft.com | WelcomeOPSCO2026.! | |
+| Giovanni Miranda | WINSRE25-09 | TEKwinSRE25! | student009_OC013@opscosolutions.onmicrosoft.com | WelcomeOPSCO2026.! | |
+| Michael Pham | WINSRE25-10 | TEKwinSRE25! | student010_OC013@opscosolutions.onmicrosoft.com | WelcomeOPSCO2026.! | |
+| Vijayalakshmi Rajagopalan | WINSRE25-11 | TEKwinSRE25! | student011_OC013@opscosolutions.onmicrosoft.com | WelcomeOPSCO2026.! | |
+| Mayank Rothe | WINSRE25-12 | TEKwinSRE25! | student012_OC013@opscosolutions.onmicrosoft.com | WelcomeOPSCO2026.! | |
+| Priyanka Soni | WINSRE25-13 | TEKwinSRE25! | student013_OC013@opscosolutions.onmicrosoft.com | WelcomeOPSCO2026.! | |
+| Marcus Tyler-Moore | WINSRE25-14 | TEKwinSRE25! | student014_OC013@opscosolutions.onmicrosoft.com | WelcomeOPSCO2026.! | |
