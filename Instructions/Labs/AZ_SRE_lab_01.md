@@ -59,7 +59,7 @@ In this task, you will deploy two Azure virtual machines into different availabi
     | Availability options | **Availability zone** |
     | Availability zone | **Zone 1, 2** (read the note about using virtual machine scale sets) |
     | Security type | **Standard** |
-    | Image | **Windows Server 2019 Datacenter - x64 Gen2** |
+    | Image | **Windows Server 2025 Datacenter - x64 Gen2** |
     | Azure Spot instance | **unchecked** |
     | Size | click on the link "See all sizes", then select **Standard B1s** |
     | Username | `localadmin` |
