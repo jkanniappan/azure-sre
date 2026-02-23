@@ -88,7 +88,7 @@ In this task, you will deploy two Azure virtual machines into different availabi
 
     | Setting | Value |
     | --- | --- |
-    | Patch orchestration options | **Azure orchestrated** |  
+    | Patch orchestration options | **Leave Default** |  
 
 1. Click **Next : Monitoring >** and specify the following settings (leave others with their default values):
 
