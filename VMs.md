@@ -32,5 +32,5 @@
 | Dipankar Murao | WINSRE25-40 | TEKwinSRE25! | student010_OC014@opscosolutions.onmicrosoft.com | WelcomeOPSCO2026.! | |
 | Hany Sedhom | WINSRE25-41 | TEKwinSRE25! | student011_OC014@opscosolutions.onmicrosoft.com | WelcomeOPSCO2026.! | |
 | Alexandre Souza | WINSRE25-42 | TEKwinSRE25! | student012_OC014@opscosolutions.onmicrosoft.com | WelcomeOPSCO2026.! | |
-| kirill Azvolinsky | WINSRE25-43 | TEKwinSRE25! | student013_OC014@opscosolutions.onmicrosoft.com | WelcomeOPSCO2026.! | |
+| Kirill Azvolinsky | WINSRE25-43 | TEKwinSRE25! | student013_OC014@opscosolutions.onmicrosoft.com | WelcomeOPSCO2026.! | |
 | Angelo Zamora | WINSRE25-44 | TEKwinSRE25! | student014_OC014@opscosolutions.onmicrosoft.com | WelcomeOPSCO2026.! | |
