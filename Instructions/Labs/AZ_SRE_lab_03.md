@@ -85,7 +85,7 @@ In this task, you will deploy a virtual machine that will be used to test monito
 
 1. Select **View** in the **VM Insights** box, and then select **Configure Insights**.
 
-1. Select **Enable** next to your virtual machine, and then **Enable on the Azure Monitor - Insights Onboarding** blade.
+1. Select **Enable** next to your virtual machine, and then **Enable on the Azure Monitor - Insights Onboarding** blade. **Uncheck Enable detailed metrics \[Preview\] OpenTelemetry metrics**
 
 1. Take the defaults for subscription and data collection rules, then select **Configure**.
    
