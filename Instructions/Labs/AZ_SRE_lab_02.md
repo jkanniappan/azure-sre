@@ -176,7 +176,7 @@ git clone https://github.com/jruels/azure-sre
    | **Runtime stack** drop-down list   | Select **Python 3.13**                                                                                 |
    | **Operating System** section       | Select **Linux**                                                                                      |
    | **Region** drop-down list          | Select the **East US** region                                                                           |
-   | **Windows Plan (East US)** section | Select **Create new**, enter the value **srelabsplan** in the **Name** text box, and then select **OK** |
+   | **Linux Plan (East US)** section | Select **Create new**, enter the value **srelabsplan** in the **Name** text box, and then select **OK** |
    | **Pricing plan** section           | Select **Basic B2**                                                                                |
 
 
