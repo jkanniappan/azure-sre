@@ -192,7 +192,7 @@ git clone https://github.com/jruels/azure-sre
 
 #### Task 6: Configure the web app
 
-1. On the **App Service** blade, in the **Settings** section, select the **Configuration** link.
+1. On the **App Service** blade, in the **Settings** section, select the **Configuration** link. **Leave Preview mode**.
 
 1. In the **Startup Command** field, enter the following command, then select **Save** and **Continue**.
    ```
