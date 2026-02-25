@@ -588,7 +588,7 @@ In this exercise, you created a web app in Azure, and then deployed your web app
 
 1. Workflow Option : Leave Default
 
-1. Authentification : Leave Default (Basic Authentication)
+1. Authentification : Basic Authentication
 
 1. Hit the Save button at the top
 
