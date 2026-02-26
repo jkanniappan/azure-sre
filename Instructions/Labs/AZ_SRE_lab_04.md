@@ -64,6 +64,7 @@ Sign in to your Windows 11 virtual machine (VM).
     ```
     1. Push your changes :
     ```
+    git pull
     git add --all
     git commit -m "new service"
     git push
@@ -95,6 +96,7 @@ Sign in to your Windows 11 virtual machine (VM).
     ```
 1. Push your changes :
     ```
+    git pull
     git add --all
     git commit -m "new service"
     git push
